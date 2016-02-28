@@ -13,7 +13,8 @@ when move the cursor on github repository link.
 ## Install
 
 Install here.
-[github-brief-description]()
+
+[github-brief-description](https://chrome.google.com/webstore/detail/github-brief-description/mhbnfmfikhhnlgbbdkhaamkbkfejeclh?hl=ja)
 
 ## License
 
