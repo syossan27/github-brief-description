@@ -2,7 +2,7 @@
   "name": "github-brief-description",
   "version": "1",
   "manifest_version": 2,
-  "description": "Alert that looking at the old Github repository.",
+  "description": "A description of the star has been the github repository by other users, when move the cursor on github repository link.",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
