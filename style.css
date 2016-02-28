@@ -1,0 +1,39 @@
+.desc-tooltips {
+  position: absolute;
+  top: 3em;
+  left: 11em;
+  z-index: 9999;
+  padding: 10px;
+  color: black;
+  background: white;
+  border-radius: 0.5em;
+  box-shadow: 1px 3px 8px gray;
+}
+.desc-tooltips:after {
+  content:"\25B4";
+  display:block;
+  font-size:2em;
+  height:0;
+  line-height:0;
+  position:absolute;
+  color:#fff;
+  top:-5px;
+  left:1px;
+  width:100%;
+  text-shadow: 2px -1px 2px #ccc;
+}
+.news .alert {
+  overflow: visible !important;
+}
+.font-bold {
+  font-weight: bold;
+}
+.repo-language {
+  color: green;
+}
+.repo-star {
+  color: orange;
+}
+.separate {
+  margin: 5px 0px;
+}
