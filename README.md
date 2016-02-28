@@ -7,7 +7,6 @@ when move the cursor on github repository link.
 
 ## Description
 
-- Display Tooltip.
 ![instruction](screenshot1.png)
 
 ## Install
